@@ -1,6 +1,6 @@
 # Germany Is Not That Bad 
 
-This is a visualization I made for my Data Visualization class as part of my Masters of Data Science at the University of San Francisco. This vizualization was made with Tableu and created into a gif. The data was cleaned and joined using Python in Jupyter Notebook. You can see the code [here](https://github.com/loulai/co2_emissions_visualizations/blob/master/emissions_per_capita_code.ipynb).
+This is a visualization I made for my Data Visualization class as part of my Masters of Data Science at the University of San Francisco. This vizualization was made with Tableau and created into a gif. The data was cleaned and joined using Python in Jupyter Notebook. You can see the code [here](https://github.com/loulai/co2_emissions_visualizations/blob/master/emissions_per_capita_code.ipynb).
 
 ![viz](./emissions_per_capita.gif)
 
